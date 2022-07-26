@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 50vw;
+}
+
+nav {
+  text-align: left;
+}
+
+span {
+  padding: 1vw;
+}
+
+li {
+  list-style: none;
+}
